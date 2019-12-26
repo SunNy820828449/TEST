@@ -10,3 +10,8 @@ C++ code for TensorRT
 
 pyhton
 ---
+python code for TensorRT execution
+
+##running
+
+    python3 espnet_transformer_trt.py
