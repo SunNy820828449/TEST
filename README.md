@@ -6,7 +6,7 @@ C++ code for TensorRT
 
 ##building
 
-    *bash mk.sh
+    bash mk.sh
 
 pyhton
 ---
